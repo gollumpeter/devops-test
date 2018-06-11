@@ -10,4 +10,8 @@ public class HelloWorld {
 		return 1;
 	}
 	
+	public static int getNumber2() {
+		return 2;
+	}
+	
 }
