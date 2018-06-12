@@ -13,4 +13,8 @@ public class HelloWorld {
 		return 2;
 	}
 	
+	public static int getNumber3() {
+		return 3;
+	}
+	
 }
