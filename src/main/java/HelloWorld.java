@@ -5,7 +5,6 @@ public class HelloWorld {
 		System.out.println("Your number is " + getNumber());
 	}
 	
-	
 	public static int getNumber() {
 		return 1;
 	}
